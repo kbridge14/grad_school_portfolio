@@ -1,1 +1,1 @@
-grad school repo
+grad school repo organized by quarter, then by class
