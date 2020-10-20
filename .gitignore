@@ -1,6 +1,9 @@
 # annoying things
-.DS_Store
-.ipynb_checkpoints
+*.DS_Store
+*.ipynb_checkpoints
+
+# large things
+*.sqlite
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
